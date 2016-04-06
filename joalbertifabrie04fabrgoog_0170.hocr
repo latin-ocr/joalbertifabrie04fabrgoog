@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./joalbertifabrie04fabrgoog/joalbertifabrie04fabrgoog_0170.png"; bbox 0 0 1163 1446; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 360 120 520 126">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 360 120 520 126">
+     <span class='ocr_line' id='line_1_1' title="bbox 360 120 520 126; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 360 120 520 126; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 197 91 842 125">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 197 91 842 125">
+     <span class='ocr_line' id='line_1_2' title="bbox 197 91 842 125; baseline -0.002 -10"><span class='ocrx_word' id='word_1_2' title='bbox 197 118 203 119; x_wconf 16' lang='grc' dir='ltr'><strong><em>ἶ</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 404 91 493 115; x_wconf 58' lang='lat' dir='ltr'>mmm</span> <span class='ocrx_word' id='word_1_4' title='bbox 497 93 656 125; x_wconf 60' lang='lat' dir='ltr'><strong>emmam</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 660 93 772 116; x_wconf 62' lang='grc' dir='ltr'>ΜΛ.</span> <span class='ocrx_word' id='word_1_6' title='bbox 807 96 842 122; x_wconf 61' lang='lat'>„3</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 587 180 843 229">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 587 180 843 229">
+     <span class='ocr_line' id='line_1_3' title="bbox 587 180 843 229; baseline 0.008 -25"><span class='ocrx_word' id='word_1_7' title='bbox 587 184 615 204; x_wconf 63' lang='lat' dir='ltr'>uo</span> <span class='ocrx_word' id='word_1_8' title='bbox 643 185 693 215; x_wconf 58' lang='grc' dir='ltr'>,μοι</span> <span class='ocrx_word' id='word_1_9' title='bbox 700 180 739 207; x_wconf 58' lang='lat' dir='ltr'>sem,</span> <span class='ocrx_word' id='word_1_10' title='bbox 744 185 787 206; x_wconf 67' lang='lat'>7²7·</span> <span class='ocrx_word' id='word_1_11' title='bbox 792 181 843 229; x_wconf 53' lang='lat'><strong>⁷3⁶«-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 139 178 842 1070">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 139 178 842 1070">
+     <span class='ocr_line' id='line_1_4' title="bbox 139 178 842 1070; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 139 178 842 1070; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
